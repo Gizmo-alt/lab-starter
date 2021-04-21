@@ -33,7 +33,7 @@ steps:
   - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 
-# Step 2: Markup
+# Step 2: working hard
 
 # - title: # Bohica1
 #  description: # a description of the step, shown to the learner in the course progress page
@@ -42,7 +42,7 @@ steps:
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 
-# Step 3: Mark around
+# Step 3: Marked
 
 # - title: # help
 #  description: # a description of the step, shown to the learner in the course progress page
