@@ -26,25 +26,25 @@ steps:
 
 # Step 1: Markdown
 
-- title: # the title of the step, shown to the learner in the course progress page
+- title: # Amiigaf
   description: # a description of the step, shown to the learner in the course progress page
   event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
   actions: # a list of the actions that will occur when the step is triggered by an event
   - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 
-# Step 2: Markup
+# Step 2: working hard
 
-# - title: # the title of the step, shown to the learner in the course progress page
+# - title: # Bohica1
 #  description: # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 
-# Step 3: Mark around
+# Step 3: Marked
 
-# - title: # the title of the step, shown to the learner in the course progress page
+# - title: # help
 #  description: # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
@@ -53,7 +53,7 @@ steps:
 
 # Step 4: Bohica
 
-# - title: # the title of the step, shown to the learner in the course progress page
+# - title: # Create
 #  description: # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
@@ -62,7 +62,7 @@ steps:
 
 # Step 5: Final Markup
 
-# - title: # the title of the step, shown to the learner in the course progress page
+# - title: # great
 #  description: # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
